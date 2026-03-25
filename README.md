@@ -1,4 +1,4 @@
-# SHEHack'26 - Hackathon README
+# SHEHack'26 - Hackathon Guidelines
 
 ## 🚀 Welcome to SHEHack'25!
 SHEHack'26 is a hackathon dedicated to empowering women of color by fostering collaboration, innovation, and impactful projects. We are thrilled to have you as part of this journey and can’t wait to see the creative solutions you build!
@@ -30,7 +30,7 @@ Your README file must include:
 - **Tech Stack Used**: List the technologies and tools used in your project.
 
 ### **📎 Submission Links**
-- https://classroom.github.com/a/lPihSdVa
+- **Github Classroom**: https://classroom.github.com/a/lPihSdVa
 - **Video Demo**: Link to your demo video showcasing the project.
 - **GitHub Repository**: Ensure the repository is **public**.
 
